@@ -1,0 +1,43 @@
+li {
+    color: rgb(51, 4, 51);
+}
+
+.header-text {
+    font-family: 'Murecho', sans-serif;
+    font-style: bold;
+}
+.image {
+    border: solid 2px rgb(80, 80, 80);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 20px;
+    box-shadow: 3px 3px 3px grey;
+}
+.line-style {
+    box-shadow: 1px 1px 2px black;
+}
+
+.shadow {
+    box-shadow: 5px 5px 5px 5px black;
+}
+.home-text-style {
+    font-weight:normal;
+}
+.resume-headings {
+    padding-bottom: 5px;
+    font-style:italic;
+}
+.byu {
+    width: 150px;
+    text-align: left;
+    margin-left: 0;
+
+}
+.onpage-anchor {
+    text-align: center;
+}
+.background {
+    background-color: rgb(247, 242, 235);
+}
